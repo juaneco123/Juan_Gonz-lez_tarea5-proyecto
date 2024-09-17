@@ -1,0 +1,12 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/carla" android:duration="200" />
+    <item android:drawable="@drawable/carlos" android:duration="200" />
+    <item android:drawable="@drawable/elom" android:duration="200" />
+    <item android:drawable="@drawable/aalvaro" android:duration="200" />
+    <item android:drawable="@drawable/spiderman" android:duration="200" />
+
+    <!-- Agrega más items si tienes más imágenes -->
+
+</animation-list>
